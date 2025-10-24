@@ -1,1 +1,5 @@
-![Project Banner](./banner.png)
+<img width="1455" height="187" alt="image" src="https://github.com/user-attachments/assets/5528a7f6-4287-44e6-80ee-b4a4a51a480f" />![Project Banner](./banner.png)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellow?logo=scikit-learn&style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green)
