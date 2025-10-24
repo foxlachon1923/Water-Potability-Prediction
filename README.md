@@ -3,3 +3,4 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellow?logo=scikit-learn&style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Confusion Matrix](./assets/confusion_matrix.png)
