@@ -1,0 +1,45 @@
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+# Nếu muốn bỏ các notebook tạm:
+# *.ipynb
+
+# Data, logs và outputs
+data/
+*.csv
+*.xlsx
+*.sqlite3
+*.log
+
+# Model / serialized objects (nên bỏ nếu file lớn)
+*.pkl
+*.joblib
+
+# Env / Secrets
+.env
+*.env
+secrets.json
+config/*.secret
+
+# System
+Thumbs.db
+desktop.ini
